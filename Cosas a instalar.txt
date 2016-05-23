@@ -1,0 +1,5 @@
+django==1.8.5
+django-registration-redux
+mysql-python
+tinymce --> Reemplazar por CKEDITOR
+django-crispy-forms
